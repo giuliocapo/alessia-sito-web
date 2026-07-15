@@ -1,0 +1,9 @@
+# Regole per i motori di ricerca
+# Sito della Dott.ssa Alessia Spadaro
+
+User-agent: *
+Allow: /
+
+# La sitemap verrà attivata quando avremo scelto il dominio definitivo.
+# Esempio:
+# Sitemap: https://www.dominio.it/sitemap.xml

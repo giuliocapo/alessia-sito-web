@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Sitemap del sito della Dott.ssa Alessia Spadaro.
+
+    Le sitemap richiedono indirizzi assoluti completi.
+    Il dominio non è stato ancora acquistato o configurato,
+    quindi gli URL verranno inseriti prima della pubblicazione
+    e dell'invio a Google Search Console.
+
+    Struttura futura:
+
+    <url>
+        <loc>https://www.DOMINIO.it/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    Non inviare questa sitemap a Google finché il dominio
+    definitivo non sarà stato inserito.
+-->
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+</urlset>

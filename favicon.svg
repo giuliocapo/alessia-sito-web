@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 64 64"
+        role="img"
+        aria-labelledby="favicon-title favicon-description"
+>
+    <title id="favicon-title">
+        Alessia Spadaro
+    </title>
+
+    <desc id="favicon-description">
+        Monogramma AS per il sito della Dott.ssa Alessia Spadaro
+    </desc>
+
+    <!-- Sfondo principale -->
+    <rect
+            width="64"
+            height="64"
+            rx="18"
+            fill="#35423A"
+    />
+
+    <!-- Forma decorativa morbida -->
+    <path
+            d="
+            M49 10
+            C56 17 57 28 53 38
+            C49 48 40 55 29 55
+            C19 55 10 49 8 40
+            C6 31 10 20 18 14
+            C26 8 41 4 49 10
+            Z
+        "
+            fill="#748276"
+            opacity="0.72"
+    />
+
+    <!-- Foglia decorativa -->
+    <path
+            d="
+            M43 16
+            C48 17 52 21 52 26
+            C47 26 43 23 43 16
+            Z
+        "
+            fill="#EADBD7"
+    />
+
+    <path
+            d="
+            M43.5 17
+            C46 20 48.5 22 51 24
+        "
+            fill="none"
+            stroke="#C4A29B"
+            stroke-width="1.2"
+            stroke-linecap="round"
+    />
+
+    <!-- Monogramma -->
+    <text
+            x="32"
+            y="41"
+            fill="#FFFDF9"
+            font-family="Georgia, 'Times New Roman', serif"
+            font-size="25"
+            font-weight="400"
+            text-anchor="middle"
+            letter-spacing="-1"
+    >
+        AS
+    </text>
+</svg>
