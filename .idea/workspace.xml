@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="kimi-k3:cloud" />
+    <option name="selectedProviderName" value="Ollama" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0308eae0-bc16-4ac8-891b-ce8002e35e3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/ascolto_consapevolezza_image.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/studio_alessia2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chi-sono.html" beforeDir="false" afterPath="$PROJECT_DIR$/chi-sono.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contatti.html" beforeDir="false" afterPath="$PROJECT_DIR$/contatti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/percorsi.html" beforeDir="false" afterPath="$PROJECT_DIR$/percorsi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio-online.html" beforeDir="false" afterPath="$PROJECT_DIR$/studio-online.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/PandiPC/IdeaProjects/alessia-sito-web" value="3K3u4QibCyztKFICzGwhgWqEy31" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "giuliocapo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/giuliocapo/alessia-sito-web.git",
+    "accountId": "e4ff6cc6-bd51-4e4c-a1d6-a11b21ed42f1"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.9396022385852791" />
+      <entry key="MS500" value="2.674056055517976" />
+      <entry key="S2" value="2.910431050834103" />
+      <entry key="S5" value="2.9634675072327967" />
+      <entry key="S10" value="2.981613951992545" />
+      <entry key="S30" value="2.9938444764885794" />
+      <entry key="S60" value="2.9969188694030042" />
+      <entry key="M2" value="2.998458591457405" />
+      <entry key="M5" value="2.999383234071905" />
+      <entry key="M10" value="2.999691583273064" />
+      <entry key="M15" value="2.999794381345027" />
+      <entry key="M30" value="2.9998971869204674" />
+      <entry key="H1" value="2.999948592522184" />
+      <entry key="H2" value="2.9999742960265747" />
+      <entry key="H4" value="2.9999871479546574" />
+      <entry key="D1" value="2.9999978579842996" />
+      <entry key="W1" value="2.9999996939975575" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.049693526654917" />
+      <entry key="MS500" value="2.0878766279301457" />
+      <entry key="S2" value="2.7045118979533282" />
+      <entry key="S5" value="2.8748370438590447" />
+      <entry key="S10" value="2.9361851287826957" />
+      <entry key="S30" value="2.9784472329037213" />
+      <entry key="S60" value="2.9891880227748224" />
+      <entry key="M2" value="2.9945850787885795" />
+      <entry key="M5" value="2.997831883300964" />
+      <entry key="M10" value="2.998915583248184" />
+      <entry key="M15" value="2.999276975826658" />
+      <entry key="M30" value="2.999638448070468" />
+      <entry key="H1" value="2.999819214073243" />
+      <entry key="H2" value="2.999909604545965" />
+      <entry key="H4" value="2.9999548016502984" />
+      <entry key="D1" value="2.9999924668552307" />
+      <entry key="W1" value="2.9999989238343434" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3K3u3e8vUmImvi1qlZeUjCiOdmM" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelProviderName" value="Ollama" />
+            <option name="modelType" value="byok_id" />
+            <option name="modelValue" value="kimi-k3:cloud" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PandiPC/IdeaProjects/alessia-sito-web/assets/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PandiPC\IdeaProjects\alessia-sito-web\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PandiPC\IdeaProjects\alessia-sito-web\assets\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0308eae0-bc16-4ac8-891b-ce8002e35e3d" name="Changes" comment="" />
+      <created>1790798374865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790798374865</updated>
+      <workItem from="1790798375884" duration="6695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

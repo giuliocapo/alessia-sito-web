@@ -1493,6 +1493,16 @@ button:focus-visible {
         min-height: 82px;
     }
 
+    /*
+     * backdrop-filter crea un containing block per gli elementi
+     * position: fixed: va disattivato su mobile, altrimenti il menu
+     * .main-navigation viene compresso dentro l'altezza dell'header.
+     */
+    .site-header {
+        -webkit-backdrop-filter: none;
+        backdrop-filter: none;
+    }
+
     .menu-button {
         display: inline-flex;
     }
