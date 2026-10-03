@@ -9,15 +9,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0308eae0-bc16-4ac8-891b-ce8002e35e3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/ascolto_consapevolezza_image.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/studio_alessia2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/alessia_studio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ascoltare_bambino_comunica.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/contatti1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/contatti2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/formazione_continua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/studio_alessia1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/studio_alessia3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/studio_alessia.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/chi-sono.html" beforeDir="false" afterPath="$PROJECT_DIR$/chi-sono.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contatti.html" beforeDir="false" afterPath="$PROJECT_DIR$/contatti.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/percorsi.html" beforeDir="false" afterPath="$PROJECT_DIR$/percorsi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studio-online.html" beforeDir="false" afterPath="$PROJECT_DIR$/studio-online.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,16 +37,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "giuliocapo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;giuliocapo&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/giuliocapo/alessia-sito-web.git",
-    "accountId": "e4ff6cc6-bd51-4e4c-a1d6-a11b21ed42f1"
+    "accountId": "af1a3ff1-784a-4380-ba7b-c41594680c22"
   }
 }]]></component>
   <component name="McpProjectServerCommands">
@@ -51,23 +55,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.9396022385852791" />
-      <entry key="MS500" value="2.674056055517976" />
-      <entry key="S2" value="2.910431050834103" />
-      <entry key="S5" value="2.9634675072327967" />
-      <entry key="S10" value="2.981613951992545" />
-      <entry key="S30" value="2.9938444764885794" />
-      <entry key="S60" value="2.9969188694030042" />
-      <entry key="M2" value="2.998458591457405" />
-      <entry key="M5" value="2.999383234071905" />
-      <entry key="M10" value="2.999691583273064" />
-      <entry key="M15" value="2.999794381345027" />
-      <entry key="M30" value="2.9998971869204674" />
-      <entry key="H1" value="2.999948592522184" />
-      <entry key="H2" value="2.9999742960265747" />
-      <entry key="H4" value="2.9999871479546574" />
-      <entry key="D1" value="2.9999978579842996" />
-      <entry key="W1" value="2.9999996939975575" />
+      <entry key="MS100" value="1.779338413913013" />
+      <entry key="MS500" value="2.1309497257929726" />
+      <entry key="S2" value="2.8622619023566243" />
+      <entry key="S5" value="3.3877164521374126" />
+      <entry key="S10" value="3.666387889810809" />
+      <entry key="S30" value="4.20806381364667" />
+      <entry key="S60" value="4.794634621370206" />
+      <entry key="M2" value="5.688255316942483" />
+      <entry key="M5" value="7.830437477815481" />
+      <entry key="M10" value="10.875361664856147" />
+      <entry key="M15" value="13.62092770206936" />
+      <entry key="M30" value="19.75174459486652" />
+      <entry key="H1" value="25.988779857277958" />
+      <entry key="H2" value="30.68223702173904" />
+      <entry key="H4" value="33.60180154273947" />
+      <entry key="D1" value="36.396739516148514" />
+      <entry key="W1" value="36.91286424183335" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -89,29 +93,29 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.049693526654917" />
-      <entry key="MS500" value="2.0878766279301457" />
-      <entry key="S2" value="2.7045118979533282" />
-      <entry key="S5" value="2.8748370438590447" />
-      <entry key="S10" value="2.9361851287826957" />
-      <entry key="S30" value="2.9784472329037213" />
-      <entry key="S60" value="2.9891880227748224" />
-      <entry key="M2" value="2.9945850787885795" />
-      <entry key="M5" value="2.997831883300964" />
-      <entry key="M10" value="2.998915583248184" />
-      <entry key="M15" value="2.999276975826658" />
-      <entry key="M30" value="2.999638448070468" />
-      <entry key="H1" value="2.999819214073243" />
-      <entry key="H2" value="2.999909604545965" />
-      <entry key="H4" value="2.9999548016502984" />
-      <entry key="D1" value="2.9999924668552307" />
-      <entry key="W1" value="2.9999989238343434" />
+      <entry key="MS100" value="1.0544685109430454" />
+      <entry key="MS500" value="1.8510313994021568" />
+      <entry key="S2" value="2.7386797930800486" />
+      <entry key="S5" value="3.3217177755015386" />
+      <entry key="S10" value="3.628732718824877" />
+      <entry key="S30" value="4.190996692731713" />
+      <entry key="S60" value="4.783060881243469" />
+      <entry key="M2" value="5.6795898641120655" />
+      <entry key="M5" value="7.824416365574016" />
+      <entry key="M10" value="10.87129682600551" />
+      <entry key="M15" value="13.617770379570404" />
+      <entry key="M30" value="19.74972461954617" />
+      <entry key="H1" value="25.987550342067134" />
+      <entry key="H2" value="30.68153903751126" />
+      <entry key="H4" value="33.60142647855779" />
+      <entry key="D1" value="36.39667282359182" />
+      <entry key="W1" value="36.912854603680714" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3K3u3e8vUmImvi1qlZeUjCiOdmM" />
   <component name="ProjectSessionTemplates">
     <option name="panelTemplate">
@@ -145,7 +149,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/PandiPC/IdeaProjects/alessia-sito-web/assets/images",
+    "last_opened_file_path": "C:/Users/PandiPC/IdeaProjects/alessia-sito-web",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -180,6 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1790798374865</updated>
       <workItem from="1790798375884" duration="6695000" />
+      <workItem from="1791061602235" duration="5300000" />
     </task>
     <servers />
   </component>
