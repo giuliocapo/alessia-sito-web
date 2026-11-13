@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!--
-    Sitemap del sito della Dott.ssa Alessia Spadaro.
-
-    Le sitemap richiedono indirizzi assoluti completi.
-    Il dominio non è stato ancora acquistato o configurato,
-    quindi gli URL verranno inseriti prima della pubblicazione
-    e dell'invio a Google Search Console.
-
-    Struttura futura:
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://www.DOMINIO.it/</loc>
+        <loc>https://alessiaspadaro.it/</loc>
+        <lastmod>2026-11-13</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
-
-    Non inviare questa sitemap a Google finché il dominio
-    definitivo non sarà stato inserito.
--->
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://alessiaspadaro.it/chi-sono.html</loc>
+        <lastmod>2026-11-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://alessiaspadaro.it/percorsi.html</loc>
+        <lastmod>2026-11-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://alessiaspadaro.it/studio-online.html</loc>
+        <lastmod>2026-11-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://alessiaspadaro.it/contatti.html</loc>
+        <lastmod>2026-11-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>

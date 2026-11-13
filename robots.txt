@@ -4,6 +4,4 @@
 User-agent: *
 Allow: /
 
-# La sitemap verrà attivata quando avremo scelto il dominio definitivo.
-# Esempio:
-# Sitemap: https://www.dominio.it/sitemap.xml
+Sitemap: https://alessiaspadaro.it/sitemap.xml
