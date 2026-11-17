@@ -39,6 +39,47 @@
             src="assets/js/main.js"
             defer
     ></script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": ["MedicalBusiness", "LocalBusiness"],
+                "@id": "https://alessiaspadaro.it/#business",
+                "name": "Dott.ssa Alessia Spadaro - Psicologa",
+                "description": "Studio di psicologia clinica a Velletri e online. Colloqui di supporto psicologico per bambini, adolescenti e adulti.",
+                "url": "https://alessiaspadaro.it/",
+                "telephone": "+39 342 386 2892",
+                "email": "dott.alessiaspadaro@gmail.com",
+                "image": "https://alessiaspadaro.it/assets/images/alessia_headshot.jpeg",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Piazza Cairoli, 30",
+                    "postalCode": "00049",
+                    "addressLocality": "Velletri",
+                    "addressRegion": "RM",
+                    "addressCountry": "IT"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 41.6889014,
+                    "longitude": 12.7793160
+                },
+                "sameAs": ["https://www.instagram.com/psicologa_spadaroalessia/"],
+                "founder": { "@id": "https://alessiaspadaro.it/#persona" }
+            },
+            {
+                "@type": "Person",
+                "@id": "https://alessiaspadaro.it/#persona",
+                "name": "Alessia Spadaro",
+                "jobTitle": "Psicologa clinica",
+                "worksFor": { "@id": "https://alessiaspadaro.it/#business" },
+                "alumniOf": "Università degli Studi di Roma La Sapienza"
+            }
+        ]
+    }
+    </script>
 </head>
 
 <body>
